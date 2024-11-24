@@ -18,8 +18,7 @@ KEY INSIGHTS & VISUALISATIONS:
 •Month
 
 2. Total Quantity by Month:
-
-Top 3 Month Status,
+  Top 3 Month Status,
 •July:1700
 •March:1696
 •January:1672
