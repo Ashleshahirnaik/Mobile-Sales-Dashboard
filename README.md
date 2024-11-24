@@ -3,6 +3,7 @@
 In this project, I have created a dashboard by analyzing smart phone sales data. Very important insights have been taken out in this report. Through which we can track the sales of smart phones or can increase the sales.
 
 **KPI CARD**
+
 •Total Sales : 769M
 •Total Quantity : 19K
 •Transaction : 4k
@@ -17,6 +18,7 @@ KEY INSIGHTS & VISUALISATIONS:
 •Month
 
 2. Total Quantity by Month:
+
 Top 3 Month Status,
 •July:1700
 •March:1696
